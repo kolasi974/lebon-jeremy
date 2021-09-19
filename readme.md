@@ -5,3 +5,9 @@
 * :bell: JavaScript
 * :snake: Python
 * :computer: Bash
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
