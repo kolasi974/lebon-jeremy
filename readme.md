@@ -6,10 +6,8 @@
 * :snake: Python
 * :computer: Bash
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+```java
+if (profile == interesting){
+    contactMe(message);
 }
 ```
