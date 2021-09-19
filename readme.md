@@ -1,4 +1,4 @@
-# :fire: Student at Epitech :fire:
+# :exclamation: Student at Epitech :exclamation:
 
 * :+1: PHP
 * :coffee: JAVA
