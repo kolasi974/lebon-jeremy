@@ -6,7 +6,7 @@
 * :snake: Python
 * :computer: Bash
 
-```java
+```javascript
 if (profile == interesting){
     contactMe(message);
 }
