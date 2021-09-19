@@ -8,6 +8,6 @@
 
 ```javascript
 if (profile == interesting){
-    contactMe(message);
+    contactMeOn([linkedin] https://www.linkedin.com/in/jeremy-lebon-3ab9071b5/);
 }
 ```
