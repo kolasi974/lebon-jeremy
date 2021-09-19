@@ -6,8 +6,4 @@
 * :snake: Python
 * :computer: Bash
 
-```javascript
-if (profile == interesting){
-    contactMe([linkedin](https://www.linkedin.com/in/jeremy-lebon-3ab9071b5/));
-}
-```
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/#0A66C2.svg" />
