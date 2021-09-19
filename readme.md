@@ -6,4 +6,4 @@
 * :snake: Python
 * :computer: Bash
 
-[linkedin] https://www.linkedin.com/in/jeremy-lebon-3ab9071b5/
+[linkedin](https://www.linkedin.com/in/jeremy-lebon-3ab9071b5/)
