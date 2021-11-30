@@ -1,4 +1,23 @@
-# Coucou toi
-c mon github
+# I'm Student interested in back end developpement
 
-### Abonne toi a ma chaine youtube
+### Langages
+* Java
+* JavaScript / NodeJs
+* PHP
+* Python
+* SQL
+* Bash
+
+### Framework
+* Symfony
+* NestJS
+* Express
+* Flask
+
+### Other 
+* Git
+* Project Management
+* Coffee
+* Linux
+* MacOs
+* Windows
