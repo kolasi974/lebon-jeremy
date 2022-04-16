@@ -4,15 +4,13 @@
 * Java
 * JavaScript / NodeJs
 * PHP
-* Python
 * SQL
 * Bash
 
-### Framework
+### Framework / Library
 * Symfony
-* NestJS
 * Express
-* Flask
+* ReactJS
 
 ### Other 
 * Git
