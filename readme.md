@@ -1,6 +1,6 @@
 # I'm Student interested in back end developpement
 
-### Langages
+### Already used language
 * Java
 * JavaScript / NodeJs
 * PHP
