@@ -2,7 +2,7 @@
 
 ### Already used language
 * Java
-* JavaScript / NodeJs
+* TypeScript
 * PHP
 * SQL
 * Bash
@@ -14,8 +14,6 @@
 
 ### Other 
 * Git
-* Project Management
-* Coffee
 * Linux
 * MacOs
 * Windows
